@@ -1,9 +1,16 @@
-numpy
-pandas
-matplotlib
-seaborn
-opencv-python
-scikit-learn
-tensorflow
-keras
-Pillow
+•	Python 
+•	TensorFlow 
+•	Keras 
+•	MobileNetV2 
+•	ImageNet Pre-trained Weights 
+•	Transfer Learning 
+•	Deep Learning 
+•	Convolutional Neural Networks (CNN) 
+•	Custom Classification Layers 
+•	Model Freezing 
+•	Skin Lesion Classification 
+•	Image Processing 
+•	Jupyter Notebook 
+•	NumPy 
+•	Matplotlib 
+•	Scikit-learn (if used for evaluation)
